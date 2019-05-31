@@ -28,7 +28,7 @@ import java.util.ResourceBundle;
 /**
  * FXML Controller class
  *
- * @author ranjith-suranga
+ * @author thamudhi-fernando
  */
 public class MainFormController implements Initializable { 
     

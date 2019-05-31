@@ -36,7 +36,7 @@ import java.util.logging.Logger;
 /**
  * FXML Controller class
  *
- * @author ranjith-suranga
+ * @author thamudhi-fernando
  */
 public class ManageCustomerFormController implements Initializable {
 

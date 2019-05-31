@@ -34,7 +34,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 /**
- * @author ranjith-suranga
+ * @author thamudhi-fernando
  */
 public class ManageItemFormController implements Initializable {
 
